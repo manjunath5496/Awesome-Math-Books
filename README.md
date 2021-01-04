@@ -485,6 +485,28 @@ Differential Equations using Sage</a></li>
 Structures</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(17).pdf" style="text-decoration:none;">CLP-4 Vector Calculus Exercises</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(18).pdf" style="text-decoration:none;">Sage for Undergraduates Online Electronic-Only Appendices About Color and 3D Plotting (Unproofread Draft Copy)</a></li> 
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(19).pdf" style="text-decoration:none;">Elementary Standard ML </a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(20).pdf" style="text-decoration:none;">Measure, Integration
+and Real Analysis</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(21).pdf" style="text-decoration:none;">Computational Mathematics with SageMath</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(22).pdf" style="text-decoration:none;">The Calculus Integral</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(23).pdf" style="text-decoration:none;">Theory of the Integral</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(24).pdf" style="text-decoration:none;">Analysis</a></li>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
   
 </ul>
 
