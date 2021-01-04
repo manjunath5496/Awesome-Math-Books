@@ -1,6 +1,6 @@
 <h2>Awesome Math Books </h2>
 
-<h4 id="the-project-gutenberg-license"><a href="http://www.gutenberg.org/policy/license.html">The Project Gutenberg License</a></h4>
+<h4 id="the-project-gutenberg-license"><a href="http://www.gutenberg.org/policy/license.html">The Project Gutenberg License</a> (Project Gutenberg Books)</h4>
 
 <ul>
 
