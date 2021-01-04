@@ -510,11 +510,31 @@ and Real Analysis</a></li>
   
 </ul>
 
+</br>
+
+
+<h4 id="the-project-gutenberg-license"><a href="https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx">Paul's Online Notes</a> (Cheat Sheets)</h4> <hr>
 
 
 
+<ul>
 
+                             
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(1).pdf" style="text-decoration:none;">Algebra Cheat Sheet</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(2).pdf" style="text-decoration:none;">Trig Cheat Sheet</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(3).pdf" style="text-decoration:none;">Complete Calculus Cheat Sheet </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(4).pdf" style="text-decoration:none;">Limits Calculus Cheat Sheet</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(5).pdf" style="text-decoration:none;">Derivatives Calculus Cheat Sheet </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(6).pdf" style="text-decoration:none;">Integrals Calculus Cheat Sheet</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(7).pdf" style="text-decoration:none;">Common Derivatives and Integrals </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/c(8).pdf" style="text-decoration:none;">Table of Laplace Transforms</a></li>
+ 
+ 
+ 
+ </ul>
 
 
 
