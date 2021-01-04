@@ -445,5 +445,59 @@ and Concepts: the fundamentals of abstract mathematics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(92).pdf" style="text-decoration:none;">Calculus: Volume 3</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(93).pdf" style="text-decoration:none;">Algebra and Trigonometry</a></li>
   </ul>
+</br>
+<h2>Papers </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(1).pdf" style="text-decoration:none;">The language and grammar of
+mathematics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(2).pdf" style="text-decoration:none;">Learning the Language of
+Mathematics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(3).pdf" style="text-decoration:none;">A Mathematician's Lament</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(4).pdf" style="text-decoration:none;">Some Common Mathematical Symbols
+and Abbreviations (with History)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(5).pdf" style="text-decoration:none;">Reading Mathematics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(6).pdf" style="text-decoration:none;">How to Survive Your College Math Class
+(and Take Home Something of Value)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(7).pdf" style="text-decoration:none;">Mathematical Operators</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(8).pdf" style="text-decoration:none;"> Teaching Mathematics
+for Understanding </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(9).pdf" style="text-decoration:none;">A Guide to Writing Mathematics</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(10).pdf" style="text-decoration:none;">CLP-4 Vector Calculus</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(11).pdf" style="text-decoration:none;">Differential Calculus and Sage</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(12).pdf" style="text-decoration:none;">Integral Calculus and Sage</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(13).pdf" style="text-decoration:none;">Love, War and Zombies - Systems of
+Differential Equations using Sage</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(14).pdf" style="text-decoration:none;">Calculus Refresher, version 2008.4</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(15).pdf" style="text-decoration:none;">Introduction to Proof</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(16).pdf" style="text-decoration:none;">Active Applied Discrete
+Structures</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(17).pdf" style="text-decoration:none;">CLP-4 Vector Calculus Exercises</a></li>   
+  
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
