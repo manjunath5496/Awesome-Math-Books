@@ -126,39 +126,36 @@ and Brief Method for Computing their Arithmetical Values </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(65).pdf" style="text-decoration:none;">Elementary Principles of Statistical Mechanics </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(66).pdf" style="text-decoration:none;">The Foundations of Mathematics </a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(67).pdf" style="text-decoration:none;">The Logic of Chance </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(68).pdf" style="text-decoration:none;">The Mathematical Theory of Relativity</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(69).pdf" style="text-decoration:none;">Einstein's Theories of Relativity and Gravitation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(70).pdf" style="text-decoration:none;">The First Six Books of the Elements of Euclid</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(71).pdf" style="text-decoration:none;">Flatland: A Romance of Many Dimensions</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(72).pdf" style="text-decoration:none;">If I May</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(73).pdf" style="text-decoration:none;">The Mathematicall Praeface to Elements of Geometrie of Euclid of Megara</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(74).pdf" style="text-decoration:none;">Memorabilia Mathematica</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(75).pdf" style="text-decoration:none;">Passages from the Life of a Philosopher</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(76).pdf" style="text-decoration:none;">The 32nd Mersenne Prime</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(77).pdf" style="text-decoration:none;">Flatland</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(78).pdf" style="text-decoration:none;">The Second Story of Meno</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(79).pdf" style="text-decoration:none;">The Fibonacci Number Series</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(80).pdf" style="text-decoration:none;">The Golden Mean or Ratio [(1+sqrt(5))/2] to 20,000 places</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
