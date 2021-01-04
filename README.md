@@ -158,87 +158,87 @@ and Brief Method for Computing their Arithmetical Values </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(80).pdf" style="text-decoration:none;">The Golden Mean or Ratio [(1+sqrt(5))/2] to 20,000 places</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(81).pdf" style="text-decoration:none;">Miscellaneous Mathematical Constants</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(82).pdf" style="text-decoration:none;">Catalan's Constant [Ramanujan's Formula]</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(83).pdf" style="text-decoration:none;">Catalan's Constant to 1,500,000 Places</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(84).pdf" style="text-decoration:none;">The first 1000 Euler numbers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(85).pdf" style="text-decoration:none;">The first 1001 Fibonacci Numbers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(86).pdf" style="text-decoration:none;">The first 498 Bernoulli Numbers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(87).pdf" style="text-decoration:none;">Five of Maxwell's Papers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(88).pdf" style="text-decoration:none;">Deductive Logic</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(89).pdf" style="text-decoration:none;">Architecture and Democracy</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(90).pdf" style="text-decoration:none;"> Wake (First 25,000 words)</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(91).pdf" style="text-decoration:none;">Symbolic Logic</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(92).pdf" style="text-decoration:none;">The Earliest Arithmetics in English</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(93).pdf" style="text-decoration:none;">The Hindu-Arabic Numerals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(94).pdf" style="text-decoration:none;">The Number Concept</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(95).pdf" style="text-decoration:none;">A Review of Algebra</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(96).pdf" style="text-decoration:none;">A Tangled Tale</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(97).pdf" style="text-decoration:none;">Amusements in Mathematics</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(98).pdf" style="text-decoration:none;">Astronomy Explained Upon Sir Isaac Newton's Principles</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(99).pdf" style="text-decoration:none;">Creative Intelligence: Essays in the Pragmatic Attitude</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(100).pdf" style="text-decoration:none;">Goose-Quill Papers</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(101).pdf" style="text-decoration:none;">Humorous Readings and Recitations</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(102).pdf" style="text-decoration:none;">Jerome Cardan: A Biographical Study</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(103).pdf" style="text-decoration:none;">Logic: Deductive and Inductive</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(104).pdf" style="text-decoration:none;">Mysticism and Logic and Other Essays</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(105).pdf" style="text-decoration:none;">Stories of Inventors</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(106).pdf" style="text-decoration:none;">The Foundations of Science: Science and Hypothesis</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(107).pdf" style="text-decoration:none;">The Gyroscopic Compass</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(108).pdf" style="text-decoration:none;">The Invasion of America: a fact story based on the inexorable mathematics of war</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(109).pdf" style="text-decoration:none;">An Enquiry into The Life and Legend of Michael Scot</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(110).pdf" style="text-decoration:none;">The Life and Letters of Lewis Carroll </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(111).pdf" style="text-decoration:none;">Makers of Electricity</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(112).pdf" style="text-decoration:none;">The Mathematicians</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(113).pdf" style="text-decoration:none;">The Molecular Tactics of a Crystal</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(114).pdf" style="text-decoration:none;">The Patchwork Papers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(115).pdf" style="text-decoration:none;">The philosophy of biology</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(116).pdf" style="text-decoration:none;">The philosophy of mathematics</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(117).pdf" style="text-decoration:none;">The Puzzle King</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(118).pdf" style="text-decoration:none;">The Romance of Mathematics</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(119).pdf" style="text-decoration:none;">Woman in Science</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(120).pdf" style="text-decoration:none;">The Game of Logic</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(121).pdf" style="text-decoration:none;">The Way To Geometry</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(122).pdf" style="text-decoration:none;">Thomas Hariot</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(123).pdf" style="text-decoration:none;">William Oughtred: A great Seventeenth-Century Teacher of Mathematics</a></li>  
    
 </ul>
