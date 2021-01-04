@@ -514,7 +514,7 @@ in Mathematical Logic</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(30).pdf" style="text-decoration:none;">Introduction to Modern Set Theory</a></li>
  
-  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(31).pdf" style="text-decoration:none;">Foundations of Algebraic Geometry</a></li> 
   
   
   
