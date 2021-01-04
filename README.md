@@ -499,6 +499,21 @@ and Real Analysis</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(24).pdf" style="text-decoration:none;">Analysis</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(25).pdf" style="text-decoration:none;">Discrete Structures for Computer Science:
+Counting, Recursion, and Probability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(26).pdf" style="text-decoration:none;">The Free Speech Calculus Text</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(27).pdf" style="text-decoration:none;">Mathematics for Computer Science</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(28).pdf" style="text-decoration:none;">Street-Fighting Mathematics</a></li>
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(29).pdf" style="text-decoration:none;">A Problem Course
+in Mathematical Logic</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/p(30).pdf" style="text-decoration:none;">Introduction to Modern Set Theory</a></li>
+ 
   
   
   
