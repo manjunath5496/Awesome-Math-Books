@@ -274,7 +274,7 @@ Algebra </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(10).pdf" style="text-decoration:none;">Precalculus
 Version [&#x3C0;] = 3, Corrected Edition</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(11).pdf" style="text-decoration:none;">Active Calculus</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(12).pdf" style="text-decoration:none;">Elementary Differential Equations with Boundary Value Problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(12).PDF" style="text-decoration:none;">Elementary Differential Equations with Boundary Value Problems</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(13).pdf" style="text-decoration:none;">Fundamentals of Mathematics</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(14).pdf" style="text-decoration:none;">Math in Society</a></li>
@@ -339,7 +339,7 @@ Differential Equations for Engineers</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(41).pdf" style="text-decoration:none;">The Open Logic Text</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(42).pdf" style="text-decoration:none;">Collaborative Statistics</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(43).pdf" style="text-decoration:none;">Introduction to real analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(43).PDF" style="text-decoration:none;">Introduction to real analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(44).pdf" style="text-decoration:none;">A Computational Introduction to Number Theory and Algebra</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/m(45).pdf" style="text-decoration:none;">Precalculus, Second Edition (2.7)</a></li>  
    
