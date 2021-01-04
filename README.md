@@ -244,6 +244,7 @@ and Brief Method for Computing their Arithmetical Values </a></li>
 </ul>
 </br>
 
+<h4 id="the-project-gutenberg-license"><a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution</a> (Open Textbook Library Books)</h4> <hr>
 
 <ul>
 
