@@ -12,7 +12,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(3).pdf" style="text-decoration:none;">History of Modern Mathematics:
 Mathematical Monographs No. 1</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(4).pdf" style="text-decoration:none;">Groups of Order p^m Which Contain Cyclic Subgroups of Order p^(m-3)</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(4).pdf" style="text-decoration:none;">Groups of Order p<sup>m</sup> Which Contain Cyclic Subgroups of Order p<sup>(m-3)</sup></a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(5).pdf" style="text-decoration:none;">Treatise on the Theory of Invariants</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(6).pdf" style="text-decoration:none;"> A Primer of Quaternions </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/pg(7).pdf" style="text-decoration:none;">Ten British Mathematicians of the 19th Century</a></li>
